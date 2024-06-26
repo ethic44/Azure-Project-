@@ -1,0 +1,8 @@
+name = "azure-task"
+location = "centralus"
+server_name = "azdb"
+virtual_network_name = "vnet"
+dbsubnetname = "dbsub"
+dbsubnetcidr = "10.0.3.0/24"
+primary_database_admin = "sqladmin"
+primary_database_password = "pa$$w0rd"
